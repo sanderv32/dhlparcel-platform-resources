@@ -1,0 +1,1 @@
+# dhlparcel-platform-resources
